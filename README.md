@@ -1,2 +1,12 @@
 # Lion
-an interesting project about lions 
+# an interesting project about lions  
+  
+  ***  
+# Problem
+## (1) 3只大狮子和3只小狮子过河
+## (2) 过河工具是一条船
+## (3) 3只大狮子和其中一只小狮子会划船
+## (4) 船一次只能载2只狮子过河(无论大小)，但是小狮子必须和它的母亲在一起，  
+## 否则就会被其他大狮子吃掉。
+***  
+#   Question: 用怎样的方法能让所有狮子都安全过河。
